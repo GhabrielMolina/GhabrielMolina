@@ -1,4 +1,4 @@
-### Opa! Me chamo Ghabriel Molina 👋
+### Me chamo Ghabriel Molina 👋
 
-- 🌱 Cursando Engenharia de Computação
+- 🌱 Cursando Ciência da Computação
 - 📫 Contate-me no email: ghabrielmolina@hotmail.com
