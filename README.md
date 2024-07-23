@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ghabriel+MOLINA....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ghabriel+....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ghabriel Molina, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Ghabriel Molina, IT front office applications intern, computer science student and web developer
   <br>
   <br>
   🎓 I'm currently studying for my graduation at Pontifical Catholic University of Rio Grande do Sul (PUC-RS), Computer Science
@@ -27,16 +27,21 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
+  <code><img title="ReactJS" height="25" src="images/react-original.svg"></code>
+  <code><img title="NodeJS" height="25" src="images/nodejs.svg"></code>
+  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="TailwindCSS" height="25" src="images/tailwind-css.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="SQL" height="25" src="images/microsoft-sql-server.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html-1.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="C++" height="25" src="images/c.svg"></code>
+  <code><img title="Prisma" height="25" src="images/prisma.svg"></code>
+  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
 </p>
 <hr>
 
